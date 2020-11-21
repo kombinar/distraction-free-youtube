@@ -10,3 +10,16 @@ Once you have TamperMonkey installed navigate to:
 [Install distraction-free-youtube.user.js](https://raw.githubusercontent.com/kombinar/distraction-free-youtube/main/distraction-free-youtube.user.js)
 
 TamperMonkey (if installed correctly) will ask you to install the script.
+
+### How it looks?
+#### Home Page
+
+![Home Page](images/home.png)
+
+#### Search
+
+![Search Page](images/search.png)
+
+#### Player
+
+![Search Page](images/player.png)
