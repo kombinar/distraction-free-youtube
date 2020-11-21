@@ -6,8 +6,8 @@
 // @author       kombinar
 // @match        https://www.youtube.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/kombinar/distraction-free-youtube/main/distraction-free-youtube.js
-// @downloadURL  https://raw.githubusercontent.com/kombinar/distraction-free-youtube/main/distraction-free-youtube.js
+// @updateURL    https://raw.githubusercontent.com/kombinar/distraction-free-youtube/main/distraction-free-youtube.user.js
+// @downloadURL  https://raw.githubusercontent.com/kombinar/distraction-free-youtube/main/distraction-free-youtube.user.js
 // ==/UserScript==
 
 (function() {
