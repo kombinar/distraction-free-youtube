@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Distraction-free YouTube
 // @namespace    https://kombinar.xyz/
-// @version      0.2
+// @version      0.3
 // @description  Removes all of the distractions from YouTube (comments, suggested videos, recommendation etc)
 // @author       kombinar
 // @match        https://www.youtube.com/*
@@ -25,6 +25,7 @@
         distraction('Related videos', '#secondary', 'remove'),
         distraction('Video browser (home page)', 'ytd-browse', 'remove'),
         distraction('Comments', 'ytd-comments', 'remove'),
+        distraction('App Drawer', '#guide', 'remove'),
     ]
 
     function hide_element(selector){
