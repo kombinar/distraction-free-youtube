@@ -23,6 +23,7 @@
         distraction('Top left button (expander)', '#guide-button', 'remove'),
         distraction('Left buttons (trending, subscriptions', 'ytd-mini-guide-renderer', 'remove'),
         distraction('Related videos', '#secondary', 'remove'),
+        distraction('Related videos (narrow width)', '#chips', 'remove'),
         distraction('Video browser (home page)', 'ytd-browse', 'remove'),
         distraction('Comments', 'ytd-comments', 'remove'),
         distraction('App Drawer', '#guide', 'remove'),
